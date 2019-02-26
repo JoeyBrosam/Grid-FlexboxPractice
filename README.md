@@ -1,2 +1,2 @@
-#Practicing Grid and Flexbox
-##Joey Brosam
+# Practicing Grid and Flexbox
+## Joey Brosam
